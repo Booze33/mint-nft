@@ -5,13 +5,13 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-solana_nft_anchor = "7mXHM57iu17ivdma6HGEGmQ6oAcsn4QeFWHBcbX4eUnu"
+solana_nft_anchor = "HCnonKjpqkuqPhf37N8kwULNpK1PX3FFojDddKd6rQeb"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = 'C:\Users\ttisl\.config/solana/id.json'
 
 [scripts]
